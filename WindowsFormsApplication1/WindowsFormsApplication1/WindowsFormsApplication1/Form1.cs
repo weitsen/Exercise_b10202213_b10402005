@@ -21,6 +21,8 @@ namespace WindowsFormsApplication1
         {
             Class1 g = new Class1();
             label1.Text = g.GetNumber().ToString();
+            label2.Text = g.GetString().ToString();
+
         }
     }
 }
