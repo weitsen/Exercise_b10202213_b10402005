@@ -10,7 +10,7 @@ namespace WindowsFormsApplication1
     {
         public int GetNumber()
         {
-            return 1000;
+            return 500;
         }
 
         public String GetString()
