@@ -10,7 +10,12 @@ namespace WindowsFormsApplication1
     {
         public int GetNumber()
         {
-            return 0;
+            return 10;
+        }
+
+        public String GetString()
+        {
+            return "Hello GitHub";
         }
     }
 }
